@@ -1,6 +1,6 @@
 ## 小滕
 
-:+1: 技术栈：PHP,JavasSript,Go  
+:+1: 技术栈：**PHP**,**JavasScript**,**Go**  
   
 :airplane: 博客地址：[https://58hualong.cn](https://58hualong.cn)  
   
